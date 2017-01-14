@@ -10,7 +10,7 @@
 8. Guide Dogs of Texas, Inc. (San Antonio, Texas)
 9. Guide Dogs of the Desert International (Palm Springs, California)
 10. Guiding Eyes for the Blind (Yorktown Heights, New York)
-11. KSDS [Kansas Specialty Dog Service] (Washington, Kansas)
+11. KSDS (Kansas Specialty Dog Service) (Washington, Kansas)
 12. Leader Dogs for the Blind (Rochester, Michigan)
 13. Pilot Dogs (Columbia, Ohio)
 14. Southeastern Guide Dogs, Inc. (Palmetto, Florida)
