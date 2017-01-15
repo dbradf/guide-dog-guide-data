@@ -17,14 +17,14 @@
 15. The Seeing Eye, Inc. (Morristown, New Jersey)
 
 
-### Eye Dog Foundation for the Blind (Bakersfield, California)
+## Eye Dog Foundation for the Blind (Bakersfield, California)
 
 211 S. Montclair St., Suite A
 Bakersfield, CA  93309-3165
 Phone: 661-831-1333 or 800-393-3641
 Fax: 661-831-0681
 Email: [eyedog@arrival.net](mailto:eyedog@arrival.net)
-Website: [www.eyedogfoundation.org](https://www.eyedogfoundation.org)
+Website: https://www.eyedogfoundation.org
 
 EDF Training Center: 
 8252 South 15th Avenue
@@ -32,47 +32,47 @@ Phoenix, AZ  85041-7806
 Phone: 602-276-0051 
 Email: [eyedogaz@uswest.net](mailto:eyedogaz@uswest.net)
 
-### Eye of the Pacific (Honolulu, Hawaii)
+## Eye of the Pacific (Honolulu, Hawaii)
 
 747 Amana St. #407
 Honolulu, Hawaii  96814
 Phone: 808-941-1088
 Fax: 808-944-9368
 Email: [info@eyeofthepacfici.org](mailto:info@eyeofthepacfici.org)
-Website: [www.eyeofthepacific.org](https://www.eyeofthepacific.org)
+Website: https://www.eyeofthepacific.org
 
-### Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)
+## Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)
 
 103 Old Iron Ore Road
 Bloomfield, CT 06002
 Phone: 860-243-5200
 Fax: 860-769-0567
-Website: [www.fidelco.org](http://www.fidelco.org)
+Website: https://www.fidelco.org
 
-### Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)
+## Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)
 
 1210 Hardscrabble Road
 Cassville, NY 13318
 Phone: 315-822-5132
 Fax: 315-822-5132 (call before faxing)
-Website: [http://www.freedomguidedogs.org/](http://www.freedomguidedogs.org/)
+Website: https://www.freedomguidedogs.org/
 
-### Guide Dog Foundation for the Blind (Smithville, New York)
+## Guide Dog Foundation for the Blind (Smithville, New York)
 
 371 East Jericho Turnpike
 Smithtown, New York 11787-2976
 Phone: 631-930-9000
 Toll-free: 800-548-4337
 Fax: 631-930-9009
-Website: [www.guidedog.org](http://www.guidedog.org)
+Website: https://www.guidedog.org
 
-### Guide Dogs for the Blind, Inc. (San Rafael, California)
+## Guide Dogs for the Blind, Inc. (San Rafael, California)
 
 National Office:
 P.O. Box 151200
 San Rafael, California 94915-1200
 Toll-free: 800-295-4050
-Website: [www.guidedogs.com](http://www.guidedogs.com)
+Website: https://www.guidedogs.com
 
 California Campus:
 350 Los Ranchitos Road
