@@ -1,7 +1,7 @@
 # Dog Guide Schools in the USA
 
 1. [Eye Dog Foundation for the Blind (Bakersfield, California)](#eye-dog-foundation-for-the-blind-bakersfield-california)
-2. Eye of the Pacific (Honolulu, Hawaii)
+2. [Eye of the Pacific (Honolulu, Hawaii)](#user-content-eye-of-the-pacific-honolulu-hawaii)
 3. Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)
 4. Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)
 5. Guide Dog Foundation for the Blind (Smithville, New York)
@@ -24,7 +24,7 @@ Bakersfield, CA  93309-3165
 Phone: 661-831-1333 or 800-393-3641
 Fax: 661-831-0681
 Email: [eyedog@arrival.net](mailto:eyedog@arrival.net)
-Website: [www.eyedogfoundation.org](http://www.eyedogfoundation.org)
+Website: [www.eyedogfoundation.org](https://www.eyedogfoundation.org)
 
 EDF Training Center: 
 8252 South 15th Avenue
@@ -39,7 +39,7 @@ Honolulu, Hawaii  96814
 Phone: 808-941-1088
 Fax: 808-944-9368
 Email: [info@eyeofthepacfici.org](mailto:info@eyeofthepacfici.org)
-Website: [www.eyeofthepacific.org](http://www.eyeofthepacific.org)
+Website: [www.eyeofthepacific.org](https://www.eyeofthepacific.org)
 
 ### Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)
 
