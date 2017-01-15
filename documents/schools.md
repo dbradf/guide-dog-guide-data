@@ -101,7 +101,7 @@ San Antonio, TX 78213
 Phone: 210-366-4081 
 Toll-Free: 800-831-9231
 Fax: 210-366-4082
-Website: http://www.guidedogsoftexas.org/
+Website: https://www.guidedogsoftexas.org/
 
 ## Guide Dogs of the Desert International (Palm Springs, California)
 
