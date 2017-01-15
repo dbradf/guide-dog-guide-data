@@ -87,4 +87,4 @@ Assuming that you have gotten over the shock that blind people don’t have magi
 
    I’m more lenient than most guide dog handlers. If Nash and I aren’t moving, I do let a lot of people pet him, especially women with kids, but I do have to warn them that Nash is a licker. There’s nothing more frightening to a blind guy than that ear-piercing scream a kid lets out as your dog’s big tongue slurps the kid’s face, and the mom storms away. Hey, your kid wanted to pet Nash, and Nash wanted to lick your kid. He’s a dog — what did you expect?
 
-[http://www.dogster.com/lifestyle/guide-dogs-for-the-blind-misconceptions](http://www.dogster.com/lifestyle/guide-dogs-for-the-blind-misconceptions)
+http://www.dogster.com/lifestyle/guide-dogs-for-the-blind-misconceptions

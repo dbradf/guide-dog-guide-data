@@ -44,4 +44,4 @@ Everyone knows that Service Dogs are supposed to be calm, well trained dogs who 
 
    Some dogs have no desire to interact with people, and that’s ok. That’s just their core personality and it takes all kinds. That being said, a dog that is very aloof, too independent, or who wants to get away from people and go exploring and sniffing at the first available opportunity probably will never be happy working as a Service Dog, nor would it be emotionally fulfilling for the handler or training to try to force this dog to change who they were. Additionally, many of these dogs have no focus – they zip from one stimulus to the next and could care less that there’s a person around. Those dogs won’t make it through Service Dog training and should not be considered for the job.
 
-[http://www.anythingpawsable.com/10-things-make-dog-unsuitable-service-dog-work/#.Vquje8L2bIU](http://www.anythingpawsable.com/10-things-make-dog-unsuitable-service-dog-work/#.Vquje8L2bIU)
+http://www.anythingpawsable.com/10-things-make-dog-unsuitable-service-dog-work/#.Vquje8L2bIU

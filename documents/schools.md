@@ -24,7 +24,7 @@ Bakersfield, CA  93309-3165
 Phone: 661-831-1333 or 800-393-3641
 Fax: 661-831-0681
 Email: [eyedog@arrival.net](mailto:eyedog@arrival.net)
-Website: https://www.eyedogfoundation.org
+Website: http://www.eyedogfoundation.org
 
 EDF Training Center: 
 8252 South 15th Avenue
@@ -39,7 +39,7 @@ Honolulu, Hawaii  96814
 Phone: 808-941-1088
 Fax: 808-944-9368
 Email: [info@eyeofthepacfici.org](mailto:info@eyeofthepacfici.org)
-Website: https://www.eyeofthepacific.org
+Website: http://www.eyeofthepacific.org
 
 ## Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)
 
@@ -47,7 +47,7 @@ Website: https://www.eyeofthepacific.org
 Bloomfield, CT 06002
 Phone: 860-243-5200
 Fax: 860-769-0567
-Website: https://www.fidelco.org
+Website: http://www.fidelco.org
 
 ## Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)
 
@@ -55,7 +55,7 @@ Website: https://www.fidelco.org
 Cassville, NY 13318
 Phone: 315-822-5132
 Fax: 315-822-5132 (call before faxing)
-Website: https://www.freedomguidedogs.org/
+Website: http://www.freedomguidedogs.org/
 
 ## Guide Dog Foundation for the Blind (Smithville, New York)
 
@@ -64,7 +64,7 @@ Smithtown, New York 11787-2976
 Phone: 631-930-9000
 Toll-free: 800-548-4337
 Fax: 631-930-9009
-Website: https://www.guidedog.org
+Website: http://www.guidedog.org
 
 ## Guide Dogs for the Blind, Inc. (San Rafael, California)
 
@@ -72,7 +72,7 @@ National Office:
 P.O. Box 151200
 San Rafael, California 94915-1200
 Toll-free: 800-295-4050
-Website: https://www.guidedogs.com
+Website: http://www.guidedogs.com
 
 California Campus:
 350 Los Ranchitos Road
@@ -86,41 +86,41 @@ Boring, OR 97009
 Phone: 503-668-2100
 Fax: 503-668-2141
 
-### Guide Dogs of America (Sylmar, California)
+## Guide Dogs of America (Sylmar, California)
 
 13445 Glenoaks Boulevard
 Sylmar, CA 91342
 Phone: 818-362-5834
 Fax: 818-362-6870
-Website: [www.guidedogsofamerica.org](http://www.guidedogsofamerica.org)
+Website: http://www.guidedogsofamerica.org
 
-### Guide Dogs of Texas, Inc. (San Antonio, Texas)
+## Guide Dogs of Texas, Inc. (San Antonio, Texas)
 
 1503 Allena Drive
 San Antonio, TX 78213
 Phone: 210-366-4081 
 Toll-Free: 800-831-9231
 Fax: 210-366-4082
-Website: [http://www.guidedogsoftexas.org/](http://www.guidedogsoftexas.org/)
+Website: http://www.guidedogsoftexas.org/
 
-### Guide Dogs of the Desert International (Palm Springs, California)
+## Guide Dogs of the Desert International (Palm Springs, California)
 
 60740 Dillon Road
 Whitewater, CA 92282
 Phone: 760-329-1282
 Fax: 760-329-2127
-Website: [http://www.guidedogsofthedesert.org/](http://www.guidedogsofthedesert.org/)
+Website: http://www.guidedogsofthedesert.org/
 
-### Guiding Eyes for the Blind (Yorktown Heights, New York)
+## Guiding Eyes for the Blind (Yorktown Heights, New York)
 
 611 Granite Springs Road
 Yorktown Heights, NY 10598
 Phone: 914-245-4024
 Toll-free: 800-942-0149
 Fax: 914-245-1609
-Website: [www.guidingeyes.org](http://www.guidingeyes.org)
+Website: http://www.guidingeyes.org
 
-### KSDS (Kansas Specialty Dog Service) (Washington, Kansas)
+## KSDS (Kansas Specialty Dog Service) (Washington, Kansas)
 
 120 W. 7th Street
 Washington, Kansas  66968
@@ -128,7 +128,7 @@ Phone: 785-325-2256
 Fax: 785-325-2258
 Email: [ksds@ksds.org](mailto:ksds@ksds.org)
 
-### Leader Dogs for the Blind (Rochester, Michigan)
+## Leader Dogs for the Blind (Rochester, Michigan)
 
 1039 S. Rochester Road
 Rochester, MI 48307
@@ -136,39 +136,39 @@ Phone: 248-651-9011
 Toll-free: 888-777-5332
 Fax: 248-651-5812
 TTY: 248-651-3713
-Website: [www.leaderdog.org](http://www.leaderdog.org)
+Website: http://www.leaderdog.org
 
-### Pilot Dogs (Columbia, Ohio)
+## Pilot Dogs (Columbia, Ohio)
 
 625 West Town Street
 Columbus, OH 43215
 Phone: 614-221-6367
 Fax: 614-221-1577
-Website: [http://sites.google.com/site/pilotdogs/](http://sites.google.com/site/pilotdogs/)
+Website: http://sites.google.com/site/pilotdogs/
 
-### Southeastern Guide Dogs, Inc. (Palmetto, Florida)
+## Southeastern Guide Dogs, Inc. (Palmetto, Florida)
 
 4210 77th Street East
 Palmetto, FL 34221
 Phone: 941-729-5665 
 Toll Free: 800-944-3647
-Website: [http://www.guidedogs.org/](http://www.guidedogs.org/)
+Website: http://www.guidedogs.org/
 
-### The Seeing Eye, Inc. (Morristown, New Jersey)
+## The Seeing Eye, Inc. (Morristown, New Jersey)
 
 P.O. Box 375
 Morristown, NJ 07963-0375
 Phone: 973-539-4425
 Fax: 973-539-0922
-Website: [www.seeingeye.org](http://www.seeingeye.org)
+Website: http://www.seeingeye.org
 
-### NOAH’s Assistance Dogs (Crete, Nebraska)
+## NOAH’s Assistance Dogs (Crete, Nebraska)
 
 P.O. Box 421
 Crete, NE 68333
 Phone: 402-794-4089
-Website: [http://sites.google.com/site/noahsassistancedogscrete/](http://sites.google.com/site/noahsassistancedogscrete/)
+Website: http://sites.google.com/site/noahsassistancedogscrete/
 
-### Hadley School for the Blind [Dog Guide courses]
+## Hadley School for the Blind [Dog Guide courses]
 
-Website: [http://www.hadley.edu/showCourses.asp?courseid=GDG-101#](http://www.hadley.edu/showCourses.asp?courseid=GDG-101#)
+Website: http://www.hadley.edu/showCourses.asp?courseid=GDG-101
