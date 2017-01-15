@@ -25,35 +25,35 @@ Despite a recent article in the New York Times, blind people aren’t cursed. Co
 
 Assuming that you have gotten over the shock that blind people don’t have magical powers, let’s jump in. Here are the top ten misconceptions about guide dogs:
 
-10. Blind people work their dogs at home
+10. **Blind people work their dogs at home**
 
     This is simply not true. As soon as Nash and I get in the house, off come his leash and harness. Inside the home, Nash is a regular dog, playing with his bones, sleeping in my bed, and running to the door almost every time someone knocks on it. The one thing I can’t figure out is why not once has Nash offered to pay the pizza guy. 
 
-9. Guide dogs can’t play with other dogs
+9. **Guide dogs can’t play with other dogs**
 
     When working, guide dogs are locked into the task at hand, so you want them to avoid any other dog distractions. When they are not at work, though, they love interacting with other dogs. Several guide dog handlers I know have more than one dog in their homes, and guide dogs are like any other dog; they just need to be properly introduced.
 
     While we are a one-dog household, Nash has several doggy friends in the neighborhood, but like many guide dogs, Nash is more interested in people than other dogs.
 
-8. It’s okay to whistle, snap, or wave to a guide dog
+8. **It’s okay to whistle, snap, or wave to a guide dog**
 
     It never ceases to amaze me what people on the streets of New York City fail to realize. If I am walking down the street with my guide dog, snapping, whistling, or waving to him will most likely get a response from him. He’s a dog.
 
     Probably Nash will just look at the person, but doing that will distract from the work at hand, so control yourself, and don’t snap, whistle, or wave to a working guide dog team.
 
-7. Guide dogs don’t make mistakes 
+7. **Guide dogs don’t make mistakes**
 
     It’s a sad fact, no one is perfect, not even guide dogs. From time to time, Nash will make a minor mistake. When he does and I am with someone I know, the common reaction is, “Is he supposed to do that? Maybe he needs a refresher course.” No, he doesn’t — it was a simple mistake, it happens.
 
     When a guide dog makes a mistake, the key is for the dog to not make the same mistake again; the key to success is repetition and lots of praise. So if you see a guide dog team doing the same thing over and over again, you are witnessing the handler either training the dog to do something new, or possibly correcting a mistake. 
 
-6. Guide dogs are antisocial
+6. **Guide dogs are antisocial**
 
     I was very guilty of thinking this before being partnered with my guy Nash. When I headed off to guide dog school, the biggest thing I told Guiding Eyes For the Blind was that I wanted a guide dog who wasn’t “a Nazi.” Meaning, I wanted a friendly guide dog. They chuckled at this, as Guiding Eyes predominantly uses Labrador Retrievers.
 
     I now know why they laughed, as my guy Nash can be a social butterfly when he is not working. He loves people, and wants to say hello to everyone. He is also very silly when not working, and it amazes me how serious Nash can be about his work, but once the harness comes off, he is a playful loving silly fella. 
 
-5. Guide dogs are like taxi drivers
+5. **Guide dogs are like taxi drivers**
 
    People assume that I just tell my guide dog where I want to go and it’s as simple as getting in a cab. Not the case. Guide dogs are trained to go from point A to point B, and you are constantly giving them verbal and hand commands to tell them where to go.
 
@@ -61,25 +61,25 @@ Assuming that you have gotten over the shock that blind people don’t have magi
 
    Unfortunately, guide dogs don’t read the signs of the store and know exactly where you want to go, but if it’s a store that you frequent often, you can train your guide dog to take you to the door for that specific store. It just takes repetition, lots of praise, and of course a food reward for the dog to know and learn where you want to go. 
 
-4. Guide dogs tell you when to cross the street
+4. **Guide dogs tell you when to cross the street**
 
    One of the biggest questions I get as a guide dog handler is how does your guide dog know when to cross the street? He doesn’t. That’s right, guide dogs don’t know when the traffic light changes, I do.
 
    Blind people listen for the surge of traffic, and they tell their guide dogs when they think it is safe to cross the street. Dogs are color blind so they can’t read the cross signal. We give them a hand signal when we think it is safe to cross the street, and the dogs are trained to not walk into on-coming traffic. 
 
-3. Guide dogs are also guard dogs
+3. **Guide dogs are also guard dogs**
 
    People often say to me, “It’s great that you have a dog that will lead you around and protect you.” As much as I would like to think that Nash would protect me if I ever was attacked, odds are he most likely won’t.
 
    Nash is a Lab, so it isn’t in his nature to attack someone. He is about as passive as they come. Trust me, I have tried to freak some friends out by telling Nash to attack and sic, and you know what Nash does? He licks me. I told you he was pretty silly. Unfortunately, you can’t have the best of both worlds. It’s just not in the breed.
 
-2. Guide dogs reach a point where they’re done with training
+2. **Guide dogs reach a point where they’re done with training**
 
    It amazes me how often I am asked if I am training Nash, and I respond, no, I’m blind. To which I often hear, really, you don’t look blind. Okay, let’s get beyond how unbelievably it insulting it is to say that to someone, and focus on the guide dog here. Actually, guide dogs are always in training, as you are constantly teaching them new things. You are constantly going to new places, so whether it is teaching him a new bus stop, subway entrance, store, or any of a million things, guide dogs are always in training, even the fully working ones.
 
    And the No. 1 biggest misconception about guide dogs:
 
-1. You can never pet a guide dog under any circumstances
+1. **You can never pet a guide dog under any circumstances**
 
    You may have heard that you should never pet a working guide dog. This is true, but it is also personal discretion of the guide dog handler to say when it is okay to pet their guide dog. Many do not want anyone to pet their guide dogs when they are in harness. Others, under the right circumstances, may tell people it is ok to pet their dog.
 
