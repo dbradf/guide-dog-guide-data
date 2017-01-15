@@ -1,6 +1,6 @@
 # Dog Guide Schools in the USA
 
-1. [Eye Dog Foundation for the Blind (Bakersfield, California)](#eye-dog-foundation-for-the-blind-bakersfield-california)
+1. [Eye Dog Foundation for the Blind (Bakersfield, California)](eye-dog-foundation-for-the-blind-bakersfield-california)
 2. Eye of the Pacific (Honolulu, Hawaii)
 3. Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)
 4. Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)
