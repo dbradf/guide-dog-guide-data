@@ -3,7 +3,7 @@
 1. [Eye Dog Foundation for the Blind (Bakersfield, California)](#eye-dog-foundation-for-the-blind-bakersfield-california)
 2. [Eye of the Pacific (Honolulu, Hawaii)](#eye-of-the-pacific-honolulu-hawaii)
 3. [Fidelco Guide Dog Foundation, Inc. (Bloomfield, Connecticut)](#fidelco-guide-dog-foundation-inc-bloomfield-connecticut)
-4. Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)
+4. [Freedom Guide Dogs for the Blind, Inc. (Cassville, New York)](#freedom-guide-dogs-for-the-blind-smithville-new-york)
 5. Guide Dog Foundation for the Blind (Smithville, New York)
 6. Guide Dogs for the Blind, Inc. (San Rafael, California & Boring, Oregon)
 7. Guide Dogs of America (Sylmar, California)
