@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2017-02-11",
+    "lastUpdated": "2017-02-12",
     "documents": [
       {
         "name": "Schedule for Guide Dogs Lifestyle Workshop 2017",
@@ -35,11 +35,6 @@
             "name": "References",
             "date": "2017-01-14",
             "location": "references.md"
-        },
-        {
-            "name": "Test Doc",
-            "date": "2017-02-12",
-            "location": "test.md"
         }
     ]
 }
