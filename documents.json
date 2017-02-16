@@ -1,6 +1,11 @@
 {
-    "lastUpdated": "2017-02-13",
+    "lastUpdated": "2017-02-16",
     "documents": [
+      {
+        "name": "Introduction Video",
+        "date": "2017-02-16",
+        "location": "intro_video.md"
+      },
       {
         "name": "Schedule for Guide Dogs Lifestyle Workshop 2017",
         "date": "2017-02-02",
