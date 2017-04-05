@@ -2,30 +2,15 @@
     "lastUpdated": "2017-02-16",
     "documents": [
       {
-        "name": "Introduction Video",
-        "date": "2017-02-16",
-        "location": "intro_video.md"
-      },
-      {
         "name": "Schedule for Guide Dogs Lifestyle Workshop 2017",
         "date": "2017-02-02",
         "location": "schedule_april_2017.md"
       },
-        {
-            "name": "10 Common Misconceptions about Guide Dogs",
-            "date": "2017-01-14",
-            "location": "misconceptions.md"
-        },
-        {
-            "name": "10 Things That Make a Dog Unsuitable For Service Dog Work",
-            "date": "2017-01-14",
-            "location": "unsuitable.md"
-        },
-        {
-            "name": "Why Does Your Guide Dog Work?",
-            "date": "2017-01-16",
-            "location": "whygdwork.md"
-        },
+      {
+        "name": "Introduction Video",
+        "date": "2017-02-16",
+        "location": "intro_video.md"
+      },
         {
             "name": "Assessing Client Readiness for Guide Dog Mobility",
             "date": "2017-01-16",
@@ -40,6 +25,21 @@
             "name": "References",
             "date": "2017-01-14",
             "location": "references.md"
+        },
+        {
+            "name": "10 Common Misconceptions about Guide Dogs",
+            "date": "2017-01-14",
+            "location": "misconceptions.md"
+        },
+        {
+            "name": "10 Things That Make a Dog Unsuitable For Service Dog Work",
+            "date": "2017-01-14",
+            "location": "unsuitable.md"
+        },
+        {
+            "name": "Why Does Your Guide Dog Work?",
+            "date": "2017-01-16",
+            "location": "whygdwork.md"
         }
     ]
 }
